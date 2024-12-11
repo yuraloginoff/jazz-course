@@ -2,6 +2,8 @@
 
 **Original source:** HamiltonX  Music160x course [on edX](https://learning.edx.org/course/course-v1:HamiltonX+Music160x+3T2016/home) 
 
+---
+
 WEEK 1 - Jazz Is …
 
 WEEK 2 - Jazz Swings and Rocks
@@ -39,5 +41,5 @@ Established in 1995, The Milton and Nelma Fillius Jazz Archive at Hamilton Colle
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA4MzQ5MDhdfQ==
+eyJoaXN0b3J5IjpbLTkyMTYwMDEyM119
 -->
