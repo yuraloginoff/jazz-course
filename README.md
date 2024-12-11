@@ -16,7 +16,7 @@ WEEK 5 - Jazz is Art and Entertainment
 
 WEEK 6 - Jazz is Magic
 
-
+---
 
 Welcome to "Jazz: The Music, the Stories, the Players." This feels a bit like welcoming an audience to a jazz gig, but on a much larger scale. I am pleased that you have joined the band. We will be listening, reading, actively participating and exchanging opinions throughout the course. I am confident that the way you hear and feel jazz will be lifted to another level.
 
@@ -41,5 +41,5 @@ Established in 1995, The Milton and Nelma Fillius Jazz Archive at Hamilton Colle
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTYwMDEyM119
+eyJoaXN0b3J5IjpbMjA4MTAwNDU4LC05MjE2MDAxMjNdfQ==
 -->
